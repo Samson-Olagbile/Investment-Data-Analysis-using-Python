@@ -3,10 +3,20 @@ This project explores investment patterns using Python, focusing on data visuali
 
 # Key Features:
 Data Cleaning & Preprocessing: Loaded and structured the dataset for analysis.
+
+
 Exploratory Data Analysis (EDA):
+
+
 Visualized gender distribution using pie charts.
+
+
 Identified popular investment avenues through bar charts.
+
+
 Analyzed investment reasons using word clouds.
+
+
 Statistical Insights: Used descriptive statistics to summarize investment behaviors.
 
 # Libraries Used: Pandas, Matplotlib, Seaborn, WordCloud
